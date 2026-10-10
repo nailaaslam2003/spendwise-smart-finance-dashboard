@@ -1,0 +1,18 @@
+Date,Description,Category,Amount,Type,Payment Method
+2026-09-01,Monthly stipend,Income,950.0,Income,Bank transfer
+2026-09-02,Supermarket,Groceries,34.7,Expense,Card
+2026-09-03,Bus pass,Transport,24.0,Expense,Card
+2026-09-04,Cafe,Dining,7.5,Expense,Card
+2026-09-05,Rent,Housing,420.0,Expense,Bank transfer
+2026-09-06,Internet,Bills,25.0,Expense,Bank transfer
+2026-09-08,Bookshop,Education,18.9,Expense,Card
+2026-09-10,Tutoring,Income,120.0,Income,Bank transfer
+2026-09-11,Pharmacy,Health,13.4,Expense,Card
+2026-09-13,Restaurant,Dining,21.0,Expense,Card
+2026-09-15,Local market,Groceries,27.6,Expense,Cash
+2026-09-18,Train ticket,Transport,16.5,Expense,Card
+2026-09-20,Clothing,Shopping,42.0,Expense,Card
+2026-09-22,Electricity,Bills,38.0,Expense,Bank transfer
+2026-09-24,Cinema,Entertainment,12.0,Expense,Card
+2026-09-27,Freelance work,Income,85.0,Income,Bank transfer
+2026-09-29,Supermarket,Groceries,41.2,Expense,Card
